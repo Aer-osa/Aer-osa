@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aer-osa
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning CSS Flexbox
+- 🌱 I’m currently relearning Javascript Fundementals
 - 💞️ I’m looking to collaborate on building nifty websites
 - 📫 How to reach me eric.n.long+webdev@gmail.com
 
