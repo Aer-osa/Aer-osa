@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aer-osa
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning Arrow Functions
+- 🌱 I’m currently learning Javascript Call Stacks
 - 💞️ I’m looking to collaborate on building nifty websites
 - 📫 How to reach me eric.n.long+webdev@gmail.com
 
