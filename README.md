@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aer-osa
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning how to manipulate the DOM
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on building nifty websites
 - 📫 How to reach me eric.n.long+webdev@gmail.com
 
