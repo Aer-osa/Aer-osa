@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **building cool web applications**
 
-- 👨‍💻 All of my projects are available at [ericlong.netlify.app](ericlong.netlify.app)
+- 👨‍💻 All of my projects are available at [https://ericlong.netlify.app](ericlong.netlify.app)
 
 - 📫 How to reach me **eric.n.long+dev@gmail.com**
 
