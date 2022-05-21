@@ -35,8 +35,3 @@ After experience in the construction and renewable resource sectors, I have foun
 
 <a href="http://www.github.com/aer-osa"><img src="https://activity-graph.herokuapp.com/graph?username=aer-osa&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aer-osa&show_icons=true&locale=en&layout=compact" alt="aer-osa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aer-osa&show_icons=true&locale=en" alt="aer-osa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aer-osa&" alt="aer-osa" /></p>
