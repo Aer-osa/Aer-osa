@@ -10,7 +10,7 @@ After experience in the construction and renewable resource sectors, I have foun
 * 🖥️  See my portfolio at [My Portfolio](http://ericlong.netlify.app)
 * ✉️  You can contact me at [eric.n.long@gmail.com](mailto:eric.n.long@gmail.com)
 * 🤝  I'm open to collaborating on Cool web apps or green tech opportunities
-* ⚡  I'm neurodiverse :D
+* ⚡  I'm autistic! :D
 
 ### Skills
 
