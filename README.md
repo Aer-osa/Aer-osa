@@ -7,7 +7,7 @@ I'm a full stack software engineer.
 After experience in the construction and renewable resource sectors, I have found a love of coding and solving puzzles with incrementally more elegant solutions. Computers have long been a love of mine, as a child I would help build towers, now I build programs on them :D
 
 * 🌍  I'm based in Coal Harbour, BC
-* 🖥️  See my portfolio at [My Portfolio](http://ericlong.netlify.app)
+* 🖥️  See my portfolio at [My Portfolio](http://ericlong-dev.netlify.app)
 * ✉️  You can contact me at [eric.n.long@gmail.com](mailto:eric.n.long@gmail.com)
 * 🤝  I'm open to collaborating on Cool web apps or green tech opportunities
 * ⚡  I'm autistic! :D
