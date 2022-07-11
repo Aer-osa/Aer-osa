@@ -9,7 +9,7 @@ After experience in the construction and renewable resource sectors, I have foun
 * 🌍  I'm based in Coal Harbour, BC
 * 🖥️  See my portfolio at [My Portfolio](http://ericlong-dev.netlify.app)
 * ✉️  You can contact me at [eric.n.long@gmail.com](mailto:eric.n.long@gmail.com)
-* 🤝  I'm open to collaborating on Cool web apps or green tech opportunities
+* 🤝  I'm open to collaborating on cool web apps or green tech opportunities
 * ⚡  I'm autistic! :D
 
 ### Skills
