@@ -1,10 +1,4 @@
-Hi 👋 My name is Eric (Aer) Long
-================================
 
-I'm a full stack software engineer.
------------------------------------
-
-After experience in the construction and renewable resource sectors, I have found a love of coding and solving puzzles with incrementally more elegant solutions. Computers have long been a love of mine, as a child I would help build them, but now I build programs on them :D
 
 * 🌍  I'm based in Courtenay, BC, Canada
 * ✉️  You can contact me at [eric.n.long@gmail.com](mailto:eric.n.long@gmail.com)
